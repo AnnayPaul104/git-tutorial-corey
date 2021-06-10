@@ -1,1 +1,1 @@
-console.log("Master");
+console.log("Lesson 1");
